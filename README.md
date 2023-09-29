@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andybazil
 - 👀 I’m interested in girls ...
-- 📫 How to reach me,from Melbourne, 0423254497
+- 📫 How to reach me,from Melbourne
 
 <!---
 andybazil/andybazil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
